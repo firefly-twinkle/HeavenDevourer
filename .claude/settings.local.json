@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(more \"10_正文/第 1 卷/第 1 章.md\")",
+      "Bash(wslpath -u \"10_正文/第 1 卷/第 1 章.md\")",
+      "Bash(node:*)",
+      "Bash(powershell:*)",
+      "Bash(python3 -c \"with open\\('01_核心系统/能力体系.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
+      "Bash(python -c \"with open\\('01_核心系统/能力体系.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
+      "Bash(python3 -c \"with open\\('01_核心系统/势力与组织.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
+      "Bash(python -c \"with open\\('01_核心系统/势力与组织.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
+      "WebSearch",
+      "Bash(git config:*)"
+    ]
+  }
+}
