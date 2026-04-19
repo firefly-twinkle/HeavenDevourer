@@ -6,7 +6,7 @@
       {
         "id": "12094de8b14ac27a",
         "type": "tabs",
-        "dimension": 52.04244031830238,
+        "dimension": 49.5398773006135,
         "children": [
           {
             "id": "3ed543a888d41804",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_正文/卷索引.md",
+                "file": "05_信息与伏笔系统/伏笔系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卷索引"
+              "title": "伏笔系统"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "2bd6ea8c742cd8f2",
         "type": "tabs",
-        "dimension": 47.95755968169762,
+        "dimension": 50.4601226993865,
         "children": [
           {
             "id": "35c8b67977f04f4c",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_正文/卷索引.md",
+                "file": "12_发布与运营/封面设计需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "卷索引 的反向链接列表"
+              "title": "封面设计需求 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_正文/卷索引.md",
+                "file": "12_发布与运营/封面设计需求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "卷索引 的出链列表"
+              "title": "封面设计需求 的出链列表"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_正文/卷索引.md",
+                "file": "12_发布与运营/封面设计需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "卷索引 的大纲"
+              "title": "封面设计需求 的大纲"
             }
           }
         ]
@@ -205,34 +205,39 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3ed543a888d41804",
+  "active": "35c8b67977f04f4c",
   "lastOpenFiles": [
+    "12_发布与运营/封面设计需求.md",
+    "12_发布与运营/ps2461.tmp",
+    "12_发布与运营/封面.png",
+    "12_发布与运营/Gemini_Generated_Image_xt7io9xt7io9xt7i.png",
+    "12_发布与运营/番茄小说网发布材料.md",
+    "10_正文/第 1 卷/第 7 章 越级挑战.md",
+    "10_正文/第 1 卷/第 6 章 妖兽群围攻.md",
+    "10_正文/第 1 卷/第 5 章 系统新功能.md",
+    "10_正文/第 1 卷/第 4 章 猎杀开始.md",
+    "10_正文/第 1 卷/第 3 章 离开青阳.md",
+    "10_正文/第 1 卷/第 2 章 吞噬突破.md",
+    "10_正文/第 1 卷/第 1 章 穿越反杀.md",
+    "03_剧情系统/剧情状态机.md",
+    "03_剧情系统/故事目标系统.md",
+    "03_剧情系统/主线结构.md",
+    "03_剧情系统/分卷设计.md",
+    "10_正文/卷索引.md",
     "CLAUDE.md",
     "05_信息与伏笔系统/伏笔系统.md",
-    "10_正文/卷索引.md",
-    "10_正文/第 4 卷/卷总结.md",
-    "07_执行系统/章节蓝图.md",
-    "07_执行系统/连载调度.md",
-    "05_信息与伏笔系统/信息控制.md",
     "06_时间系统/时间线.md",
-    "03_剧情系统/剧情状态机.md",
-    "04_节奏与冲突系统/剧情压强系统.md",
-    "04_节奏与冲突系统/冲突系统.md",
+    "09_Prompt/写作 Prompt.md",
+    "09_Prompt/大纲生成Prompt.md",
+    "09_Prompt/写作Prompt.md",
+    "09_Prompt/优化Prompt.md",
     "04_节奏与冲突系统/冲突密度系统.md",
+    "04_节奏与冲突系统/冲突系统.md",
     "04_节奏与冲突系统/节奏控制.md",
-    "03_剧情系统/分卷设计.md",
-    "03_剧情系统/故事目标系统.md",
-    "10_正文/第 1 卷/第 15 章 武道大会前夜.md",
-    "01_核心系统/世界规则.md",
-    "01_核心系统/能力体系.md",
-    "01_核心系统/核心命题.md",
-    "08_情绪系统/读者情绪系统.md",
-    "10_正文/第 1 卷/01_章节蓝图.md",
-    "10_正文/第 1 卷/00_卷概要.md",
-    "10_正文/第 1 卷/第 14 章 英雄救美.md",
-    "10_正文/第 1 卷/卷总结.md",
-    "03_剧情系统/主线结构.md",
-    "02_人物系统/人物弧线.md",
+    "04_节奏与冲突系统/剧情压强系统.md",
+    "12_发布与运营",
+    "04_连载系统",
+    "00_Prompt",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base"

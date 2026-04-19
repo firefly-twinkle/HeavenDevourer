@@ -11,7 +11,11 @@
       "Bash(python3 -c \"with open\\('01_核心系统/势力与组织.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
       "Bash(python -c \"with open\\('01_核心系统/势力与组织.md', 'r', encoding='utf-8'\\) as f: print\\(f.read\\(\\)\\)\")",
       "WebSearch",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ]
   }
 }
