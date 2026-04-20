@@ -15,7 +15,16 @@
       "Bash(git commit:*)",
       "Bash(git remote:*)",
       "Bash(git branch:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(rm:*)",
+      "Bash(mv \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\00_框架优化记录.md\" \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\11_归档与复盘\\\\\" && mv \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\00_框架优化总结.md\" \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\11_归档与复盘\\\\\")",
+      "Bash(mv \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\00_全局检查报告.md\" \"C:\\\\workspace\\\\Novel\\\\从吞噬开始无敌\\\\11_归档与复盘\\\\\")",
+      "Bash(mv \"00_框架优化记录.md\" \"11_归档与复盘/\")",
+      "Bash(mv \"00_框架优化总结.md\" \"11_归档与复盘/\")",
+      "Bash(mv \"00_全局检查报告.md\" \"11_归档与复盘/\")",
+      "Bash(mv \"00_全局检查报告.md\" \"全局检查报告.md\")",
+      "Bash(mv \"00_框架优化记录.md\" \"框架优化记录.md\")",
+      "Bash(mv \"00_框架优化总结.md\" \"框架优化总结.md\")"
     ]
   }
 }
