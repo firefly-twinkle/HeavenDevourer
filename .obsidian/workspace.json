@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_正文/第 1 卷/01_章节蓝图.md",
+                "file": "10_正文/第 1 卷/第 40 章 入学测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_章节蓝图"
+              "title": "第 40 章 入学测试"
             }
           },
           {
@@ -108,17 +108,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_正文/第 1 卷/第 25 章 夺得令牌.md",
+                "file": "00_项目总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "第 25 章 夺得令牌 的反向链接列表"
+              "title": "00_项目总览 的反向链接列表"
             }
           },
           {
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 434.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,8 +199,13 @@
   },
   "active": "927ed8cf6c1851b9",
   "lastOpenFiles": [
-    "10_正文/第 1 卷/第 36 章 抵达大周帝国.md",
+    "10_正文/第 1 卷/第 41 章 翠竹院风波.md",
     "10_正文/第 1 卷/01_章节蓝图.md",
+    "10_正文/第 1 卷/第 40 章 入学测试.md",
+    "CODEBUDDY.md",
+    "10_正文/第 1 卷/第 36 章 抵达大周帝国.md",
+    "00_项目总览.md",
+    "11_归档与复盘/框架优化记录.md",
     "10_正文/卷索引.md",
     "10_正文/第 1 卷/卷总结.md",
     "10_正文/第 1 卷/00_卷概要.md",
@@ -220,11 +225,6 @@
     "10_正文/第 1 卷/第 29 章 闭关突破.md",
     "10_正文/第 1 卷/第 30 章 越级战斗.md",
     "10_正文/第 1 卷/第 26 章 山洞疗伤.md",
-    "10_正文/第 1 卷/第 27 章 潜入血刀门.md",
-    "10_正文/第 1 卷/第 28 章 营救行动.md",
-    "10_正文/第 1 卷/第 24 章 潜入计划.md",
-    "10_正文/第 1 卷/第 23 章 黑袍人身份.md",
-    "10_正文/第 1 卷/第 11 章 聚宝阁.md",
     "sedisp6h1",
     "CLAUDE.md.tmp.21644.1776688924501",
     "10_正文/第 1 卷/00_卷概要.md.tmp.21644.1776688848741",
